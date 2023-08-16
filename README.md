@@ -25,3 +25,6 @@ Synthetic dataset generation script (blender):
 # Synthethic dataset Examples:
 ### Materials on objects gradual transitions:
 ![](/DatasetObjects.jpg)
+
+### Materials in transparent vessels gradual transitions:
+![](/Dataset_Materials_In_Vessels.jpg)
