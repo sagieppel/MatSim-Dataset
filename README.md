@@ -6,7 +6,7 @@ Dataset and benchmark download links: [pcloud](https://e1.pcloud.link/publink/sh
 
 # Dataset Generation scripts
 Synthetic dataset generation script (blender): 
-[1) Materials on random objects generation script](https://github.com/sagieppel/MatSim-Generator-Generate-image-of-random-materials-on-ranodm-objects-with-Blender)
+[1) [Materials on random objects generation script](https://github.com/sagieppel/MatSim-Generator-Generate-image-of-random-materials-on-ranodm-objects-with-Blender)
 
 
-[2) Materials inside transparent containers generation script](https://github.com/sagieppel/MatSim-Generator-Script-For-similarity-recognition-of-materials-in-transperent-vessels-blender)
+[2) [Materials inside transparent containers generation script](https://github.com/sagieppel/MatSim-Generator-Script-For-similarity-recognition-of-materials-in-transperent-vessels-blender)
