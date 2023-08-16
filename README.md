@@ -28,3 +28,6 @@ Synthetic dataset generation script (blender):
 
 ### Materials in transparent vessels gradual transitions:
 ![](/Dataset_Materials_In_Vessels.jpg)
+
+# Supporting code:
+[Example neural net trained on the dataset](https://github.com/sagieppel/Contrastive-learning-for-one-shot-materials-and-textures-similarity-recognition-from-images)
