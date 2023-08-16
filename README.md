@@ -4,4 +4,7 @@ The MatSim dataset includes large-scale collections of synthetic images for mate
 # Download links:
 Dataset and benchmark download links: [pcloud](https://e1.pcloud.link/publink/show?code=kZIiSQZCYU5M4HOvnQykql9jxF4h0KiC5MX),  [icedrive](https://icedrive.net/s/A13FWzZ8V2aP9T4ufGQ1N3fBZxDF),   [zenodo](https://zenodo.org/record/7390166#.Y_6cNIBBxH4)
 
-
+# Dataset Generation scripts
+Synthetic dataset generation script (blender): 
+[1) Materials on random objects generation script](https://github.com/sagieppel/MatSim-Generator-Generate-image-of-random-materials-on-ranodm-objects-with-Blender)
+[2) Materials inside transparent containers generation script](https://github.com/sagieppel/MatSim-Generator-Script-For-similarity-recognition-of-materials-in-transperent-vessels-blender)
