@@ -14,3 +14,7 @@ Synthetic dataset generation script (blender):
 
 
 [2) [Materials inside transparent containers generation script](https://github.com/sagieppel/MatSim-Generator-Script-For-similarity-recognition-of-materials-in-transperent-vessels-blender)
+
+# Benchmark Example:
+![](/Figure1.png)
+## Benchmark 1) Real world scenes: materials states, gradual transitions, and fine-grained classes  
