@@ -2,7 +2,7 @@
 The MatSim dataset includes large-scale collections of synthetic images for material self-similarity and a diverse natural image benchmark (Figure 1) to test the ability of the net to identify material states and subclasses using one or a few examples. This dataset is designed to address the general issue of one-shot material retrieval without restrictions on material types, settings, and environments. The main focus is on distinguishing between states of materials and identifying fine-grained categories such as rotten vs. ripe or coffee vs. cocoa. Additionally, we created a second adversarial benchmark to test the net's ability to recognize materials without association with objects or environments. This benchmark involves covering objects with random materials to create uncorrelated material-object associations.
 
 
-## [Paper](https://arxiv.org/pdf/2212.00648v4.pdf)   [Video](https://www.youtube.com/watch?v=sXN3jmqv2SM)
+## [{Paper}](https://arxiv.org/pdf/2212.00648v4.pdf)        [{Video}](https://www.youtube.com/watch?v=sXN3jmqv2SM)
 # Paper
 Detailed on the dataset could be found in the paper:
 [One-shot recognition of any material anywhere using contrastive learning with physics-based rendering](https://arxiv.org/pdf/2212.00648v4.pdf)
